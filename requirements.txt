@@ -1,0 +1,11 @@
+Django>=5.1,<6.0
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+drf-spectacular
+django-environ
+psycopg[binary]
+celery
+redis
+gunicorn
+whitenoise
